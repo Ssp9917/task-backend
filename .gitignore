@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+dist/
+build/
+.DS_Store
+.env
+
+# Logs
+logs/
+*.log
+# OS Files
+Thumbs.db
+
+# Firebase / Google Cloud credentials
+*.json
